@@ -8,7 +8,7 @@
 // paragrafo.innerHTML = 'chute um número de 1 a 10';
 // console.log(paragrafo.innerHTML);
 let listaDeNumerosSorteados = []; 
-let numeroMAXIMO = 10;
+let numeroMAXIMO = 100;
 let numeroAleatorio = gerarNumeroAleatorio();
 let tentativas = 0;
 exibirMensagenInicial();
